@@ -25,4 +25,14 @@ class Calculator
         {
             return a - b;
         }
+		
+		static int Perkalian (int a, int b)
+        {
+            return a * b;
+        }
+
+        static float Pembagian (float a, float b)
+        {
+            return a / b;
+        }
 }
